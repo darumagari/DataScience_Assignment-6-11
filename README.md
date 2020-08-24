@@ -2,6 +2,7 @@
 
 1.Introduction
 This assignment will help you to consolidate the concepts learnt in the session.
+
 2.1. Problem Statement: Numpy
 Problem Statement 1:
 Write a function so that the columns of the output matrix are powers of
