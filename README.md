@@ -124,6 +124,8 @@ XII. Split 'genres' into multiple columns.
 XIII. Extract year from title e.g. (1995).
 XIV. Select rows based on timestamps later than 2015-02-01.
 XV. Sort the tags DataFrame based on timestamp.
+
+
 2.4. Problem Statement: Matplotlib
 Matplotlib:
 This assignment is for visualization using matplotlib:
@@ -133,6 +135,8 @@ titanic = pd.read_csv(url)
 Charts to plot:
 1. Create a pie chart presenting the male/female proportion
 2. Create a scatterplot with the Fare paid and the Age, differ the plot color by gender
+
+
 2.5. Problem Statement: Data Cleaning
 It happens all the time: someone gives you data containing malformed strings, Python, lists
 and missing data. How do you tidy it up so you can get on with the analysis?
@@ -162,6 +166,7 @@ would like each first value in its own column, each second value in its own colu
 there isn't an Nth value, the value should be NaN.
 Expand the Series of lists into a DataFrame named delays, rename the columns delay_1,
 delay_2, etc. and replace the unwanted RecentDelays column in df with delays.
+
 
 2.6. Problem Statement: Pandas SQL
 Problem statement 1:
